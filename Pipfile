@@ -6,6 +6,11 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+jupyter = "*"
+pandas = "*"
+requests = "*"
+matplotlib = "*"
+tika = "*"
 
 [requires]
 python_version = "3.7"
