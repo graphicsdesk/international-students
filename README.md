@@ -1,20 +1,9 @@
-_Data analysis for International Students lead._
-
-
-# Data
-
-## Sources
-
-### National Science Foundation Graduate Student Survey (GSS)
-
-Data collection methods are detailed on the [GSS website](https://nsf.gov/statistics/srvygradpostdoc/#sd&tools&micro&profiles&tabs-1).
-
-## Files
+## Data Files
 
 ### `GSS_Columbia.csv`
 
 * **What is this?** This file contains student counts by broad field and citizenship status.
-* **Source(s):** This file was exported from NSF's [interactive GSS tool](https://ncsesdata.nsf.gov/ids/gss).
+* **Source(s):** This file was exported from NSF's [interactive GSS tool](https://ncsesdata.nsf.gov/ids/gss). GSS' Data collection methods are detailed on the [GSS website](https://nsf.gov/statistics/srvygradpostdoc/#sd&tools&micro&profiles&tabs-1).
 * **Last modified:** March 14, 2019
 * **Contact information:** [Jason Kao](mailto:jason.kao@columbiaspectator.com)
 * **Spatial applicability:** Columbia University in the City of New York
