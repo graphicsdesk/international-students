@@ -8,7 +8,7 @@ def read_gss(filename, fieldscope='Detailed'):
 
     df = pd.read_csv(filename, header=4, index_col=False, thousands=',')
     df.columns = [
-        'Year', 'Institution Name', 'Detailed Fields', 'Citizenship', 'Count'
+        'Year', 'Institution Name', fieldscope + ' Fields', 'Citizenship', 'Count'
     ]
     df = df.drop('Institution Name', 1) # We assume all data describes Columbia
     df = df[1:-3] # Drop first row (total) annd last 3 rows (footnotes)
@@ -21,5 +21,6 @@ def read_gss(filename, fieldscope='Detailed'):
         citizenship = row['Citizenship']
         d[year][field][citizenship] = row['Count']
 
-    return d
+    # Return the tree with all unique fields
+    return d, df[fieldscope + ' Fields'].unique()
 
