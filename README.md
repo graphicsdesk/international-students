@@ -1,9 +1,19 @@
 ## Data Files
 
-### `GSS_Columbia.csv`
+### `GSS_Elite.csv`
 
-* **What is this?** This file contains student counts by broad field and citizenship status.
+* **What is this?** This file contains student counts by year and citizenship status for twelve selected elite institutions: the Ivies, the University of Chicago, Stanford University, Duke University, and the Massachusetts Institute of Technology.
 * **Source(s):** This file was exported from NSF's [interactive GSS tool](https://ncsesdata.nsf.gov/ids/gss). GSS' Data collection methods are detailed on the [GSS website](https://nsf.gov/statistics/srvygradpostdoc/#sd&tools&micro&profiles&tabs-1).
+* **Last modified:** March 16, 2019
+* **Contact information:** [Jason Kao](mailto:jason.kao@columbiaspectator.com)
+* **Spatial applicability:** Columbia University in the City of New York
+* **Temporal applicability:** The data was collected between fall of 1994 and fall of 2016.
+* **Observations (rows):** The data is tree-structured.
+
+### `GSS_Columbia_Detailed.csv` and `GSS_Columbia_Broad.csv`
+
+* **What is this?** These files contain student counts by year, citizenship status, and broad or detailed field..
+* **Source(s):** These files were exported from NSF's [interactive GSS tool](https://ncsesdata.nsf.gov/ids/gss). GSS' Data collection methods are detailed on the [GSS website](https://nsf.gov/statistics/srvygradpostdoc/#sd&tools&micro&profiles&tabs-1).
 * **Last modified:** March 14, 2019
 * **Contact information:** [Jason Kao](mailto:jason.kao@columbiaspectator.com)
 * **Spatial applicability:** Columbia University in the City of New York
