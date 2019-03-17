@@ -1,3 +1,24 @@
+## Notebooks
+
+### `gss-broad.ipynb` and `gss-detailed.ipynb`
+
+* **Guiding question(s):** What are international students studying more or less of in various broad and detailed fields?? Are students making compromises in academic choices in order to receive better chances of getting work visa?
+* **Finding(s):** In the last decade, in engineering, mathematics and statistics, and the computer sciences, international student populations have overtaken domestic student populations. International students are shifting toward subjects like statistics and the computer sciences while leaving subjects like nutrition and sociology.
+
+![ridgeplot](https://raw.githubusercontent.com/spec-journalism/international-students/master/notebooks/ridgeplot.png)
+
+![detailed fields](https://raw.githubusercontent.com/spec-journalism/international-students/master/notebooks/selected_detailed_fields.png)
+
+### `gss-elite.ipynb`
+
+* **Guiding question(s):** Enrollment of international students has soared at Columbia. How does this growth compare to other Ivies and elite institutions?
+* **Finding(s):** International student growth at Columbia is much greater than that at peer institutions.
+
+### `international-students.ipynb`
+
+* **Guiding question(s):** Where do international students studying in the United States originate from? Is there a stagnation of international students coming from Iran and the Muslim Ban countries?
+* **Finding(s):** International students mostly come from China and India. There was a stagnation of students from Iran, and a decline in students from most Muslim Ban countries.
+
 ## Data Files
 
 ### `GSS_Elite.csv`
