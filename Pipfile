@@ -15,6 +15,7 @@ lxml = "*"
 beautifulsoup4 = "*"
 html5lib = "*"
 xlrd = "*"
+joypy = "*"
 
 [requires]
 python_version = "3.7"
