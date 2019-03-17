@@ -14,6 +14,8 @@
 * **Guiding question(s):** Enrollment of international students has soared at Columbia. How does this growth compare to other Ivies and elite institutions?
 * **Finding(s):** International student growth at Columbia is much greater than that at peer institutions.
 
+![elites](https://raw.githubusercontent.com/spec-journalism/international-students/master/notebooks/elites.png)
+
 ### `international-students.ipynb`
 
 * **Guiding question(s):** Where do international students studying in the United States originate from? Is there a stagnation of international students coming from Iran and the Muslim Ban countries?
