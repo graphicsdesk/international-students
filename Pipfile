@@ -16,6 +16,7 @@ beautifulsoup4 = "*"
 html5lib = "*"
 xlrd = "*"
 joypy = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"

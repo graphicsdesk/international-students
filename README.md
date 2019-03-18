@@ -5,9 +5,12 @@
 * **Guiding question(s):** What are international students studying more or less of in various broad and detailed fields? Are students making compromises in academic choices in order to receive better chances of getting work visa?
 * **Finding(s):** In the last decade, in engineering, mathematics and statistics, and the computer sciences, international student populations have overtaken domestic student populations. International students are shifting toward subjects like statistics and the computer sciences while leaving subjects like nutrition and sociology.
 
-![ridgeplot](https://raw.githubusercontent.com/spec-journalism/international-students/master/notebooks/ridgeplot.png)
-
 ![detailed fields](https://raw.githubusercontent.com/spec-journalism/international-students/master/notebooks/selected_detailed_fields.png)
+
+### `gss-detailed-distribution.ipynb`
+
+* **Guiding question(s):** What detailed fields have international students been shifting towards?
+* **Finding(s):**
 
 ### `gss-elite.ipynb`
 
