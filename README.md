@@ -12,6 +12,8 @@
 * **Guiding question(s):** What detailed fields have international students been shifting away from and towards?
 * **Finding(s):**
 
+![distribution](https://raw.githubusercontent.com/spec-journalism/international-students/master/notebooks/student_distribution.png)
+
 ### `gss-elite.ipynb`
 
 * **Guiding question(s):** Enrollment of international students has soared at Columbia. How does this growth compare to other Ivies and elite institutions?
