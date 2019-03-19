@@ -9,7 +9,7 @@
 
 ### `gss-detailed-distribution.ipynb`
 
-* **Guiding question(s):** What detailed fields have international students been shifting towards?
+* **Guiding question(s):** What detailed fields have international students been shifting away from and towards?
 * **Finding(s):**
 
 ### `gss-elite.ipynb`
