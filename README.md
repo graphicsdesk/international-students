@@ -14,7 +14,7 @@
 
 ![distribution](https://raw.githubusercontent.com/spec-journalism/international-students/master/notebooks/stacked_broads.png)
 
-![animated](animated-broad-distribution.gif)
+![animated](https://raw.githubusercontent.com/spec-journalism/international-students/master/notebooks/animated-broad-distribution.gif)
 
 ### `gss-elite.ipynb`
 
