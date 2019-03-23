@@ -7,12 +7,14 @@
 
 ![detailed fields](https://raw.githubusercontent.com/spec-journalism/international-students/master/notebooks/selected_detailed_fields.png)
 
-### `gss-detailed-distribution.ipynb`
+### `gss-broad-distribution.ipynb` and  `gss-detailed-distribution.ipynb`
 
-* **Guiding question(s):** What detailed fields have international students been shifting away from and towards?
+* **Guiding question(s):** What broad and detailed fields have international students been shifting away from and towards?
 * **Finding(s):**
 
-![distribution](https://raw.githubusercontent.com/spec-journalism/international-students/master/notebooks/student_distribution.png)
+![distribution](https://raw.githubusercontent.com/spec-journalism/international-students/master/notebooks/stacked_broads.png)
+
+![animated](animated-broad-distribution.gif)
 
 ### `gss-elite.ipynb`
 
