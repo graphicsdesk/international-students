@@ -1,5 +1,9 @@
 ## Notebooks
 
+### `fields-of-study.ipynb`
+
+* **Guiding questions*s
+
 ### `gss-broad.ipynb` and `gss-detailed.ipynb`
 
 * **Guiding question(s):** What are international students studying more or less of in various broad and detailed fields? Are students making compromises in academic choices in order to receive better chances of getting work visa?
