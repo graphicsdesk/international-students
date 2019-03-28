@@ -17,6 +17,7 @@ html5lib = "*"
 xlrd = "*"
 joypy = "*"
 scipy = "*"
+fuzzywuzzy = "*"
 
 [requires]
 python_version = "3.7"
