@@ -2,7 +2,7 @@
 
 ### `fields-of-study.ipynb`
 
-* **Guiding questions*s
+* **Guiding questions(s):** What fields are new international students entering?
 
 ### `gss-broad.ipynb` and `gss-detailed.ipynb`
 
