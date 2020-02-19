@@ -1,3 +1,9 @@
+## Graphics
+
+![](./img/stacked_fields.jpg)
+
+![](./img/elites.jpg)
+
 ## Notebooks
 
 ### `fields-of-study.ipynb`
